@@ -1,5 +1,7 @@
 # karma-allure-reporter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hicom150/allure-karma.svg)](https://greenkeeper.io/)
+
 > Reporter for the Allure XML format. It allows to make detailed report
 
 ## Installation
